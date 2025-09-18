@@ -1,8 +1,8 @@
 # HNUThesisWordTemplate
-Thesis Word Template for [University of Applied Sciences Neu-Ulm](https://www.hnu.de//).
+Thesis Word Template for [University of Applied Sciences Neu-Ulm (HNU)](https://www.hnu.de//).
 For perfect compatibility please use LM Roman 10, as intended for the LaTeX Template too.
 
-Bachelorarbeit Word Template für [HNU Hochschule Neu-Ulm](https://www.hnu.de//).
+Bachelorarbeit Word Template für [HNU Hochschule Neu-Ulm (HNU)](https://www.hnu.de//).
 Für optimale Funktionalität bitte Schriftare LM Roman 10 verwenden, wie auch in LaTeX Template der Fall.
 
 LM Roman 10 Download:
